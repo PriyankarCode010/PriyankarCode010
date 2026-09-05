@@ -21,7 +21,7 @@
 - 🧠 Built projects spanning **healthcare AI, food-surplus management, anime streaming, and text-to-speech apps**
 - 🌱 Former **Freelancer & CTO at Skillium** (an LMS platform)
 - 🧑‍🏫 Served as **CodeZone Secretary**, mentoring 300+ students in DSA & development
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **at.priyankar@gmail.com**
 
 ---
 
@@ -54,12 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyankarCode010&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.athul.dev/api?username=PriyankarCode010&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankarCode010&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankarCode010&layout=compact&theme=radical&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.athul.dev/api/top-langs/?username=PriyankarCode010&layout=compact&theme=radical&hide_border=true" width="50%"/>
 </p>
 
 ---
@@ -75,9 +75,9 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/priyankarhaldar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:at.priyankar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://priyankarhaldar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>

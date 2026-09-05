@@ -52,14 +52,59 @@
 
 ---
 
-### `> ls featured_projects/`
+### `> tree featured_projects/`
+
+<details open>
+<summary><strong>healthcare-ai/</strong></summary>
 
 | Project | Description |
 |---|---|
-| **Upchar AI** | AI-powered healthcare triage app built with Next.js + AI APIs |
-| **Food Surplus Management Platform** | Connects restaurants with NGOs to reduce food waste (Next.js, Firebase) |
-| **Anime Streaming/Browsing Site** | Browse and stream anime content |
-| **React Text-to-Speech App** | Converts text input into speech using React |
+| [**upchar-backend**](https://github.com/PriyankarCode010/upchar-backend) | Backend for Upchar AI — AI-powered healthcare triage platform |
+| [**vocalize-ai**](https://github.com/PriyankarCode010/vocalize-ai) | AI-powered voice health assistant |
+
+</details>
+
+<details>
+<summary><strong>ai-agents/</strong></summary>
+
+| Project | Description |
+|---|---|
+| [**Aura**](https://github.com/PriyankarCode010/Aura) | JARVIS-style multi-device AI agent |
+
+</details>
+
+<details>
+<summary><strong>productivity/</strong></summary>
+
+| Project | Description |
+|---|---|
+| [**Savora**](https://github.com/PriyankarCode010/Savora) | Smart to-do list and bookmark manager |
+
+</details>
+
+<details>
+<summary><strong>data-and-analysis/</strong></summary>
+
+| Project | Description |
+|---|---|
+| [**asl-backend**](https://github.com/PriyankarCode010/asl-backend) | Backend for an American Sign Language recognition system |
+| [**leaf_wetness_fungal_risk_data**](https://github.com/PriyankarCode010/leaf_wetness_fungal_risk_data) | Sensor data analysis correlating leaf wetness with fungal disease risk in crops |
+| [**COVID-19_DATA_ANALYSIS**](https://github.com/PriyankarCode010/COVID-19_DATA_ANALYSIS) | Data analysis and visualization of COVID-19 trends using Python |
+
+</details>
+
+<details>
+<summary><strong>systems-and-clones/</strong></summary>
+
+| Project | Description |
+|---|---|
+| [**atm**](https://github.com/PriyankarCode010/atm) | ATM banking system simulation |
+| [**ResultSync**](https://github.com/PriyankarCode010/ResultSync) | Syncs and aggregates student/exam results |
+| [**IMS**](https://github.com/PriyankarCode010/IMS) | Inventory Management System |
+| [**SpotifyClone**](https://github.com/PriyankarCode010/SpotifyClone) | Frontend clone of the Spotify web player |
+| [**bookmyshow_clone**](https://github.com/PriyankarCode010/bookmyshow_clone) | Frontend clone of the BookMyShow ticket-booking platform |
+
+</details>
 
 ---
 
